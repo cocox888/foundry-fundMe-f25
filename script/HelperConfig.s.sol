@@ -54,9 +54,7 @@ contract HelperConfig is CodeConstants, Script {
             revert HelperConfig__InvalidChainId();
         }
     }
-/*
-*asdfas
-*/
+
     /*//////////////////////////////////////////////////////////////
                                 CONFIGS
     //////////////////////////////////////////////////////////////*/
